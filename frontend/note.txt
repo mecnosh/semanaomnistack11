@@ -1,0 +1,17 @@
+quando o html está escrito dentro do js
+se chama JSX(JS e XML)
+
+Componente é uma função que retorna html
+
+
+const [counter, setCounter] = useState(0);
+
+//Array [valor, funcaoDeAtualizacaoDoValor]
+
+Feather Icons
+
+npm install react-icons
+
+npm install react-router-dom
+
+npm install axios
