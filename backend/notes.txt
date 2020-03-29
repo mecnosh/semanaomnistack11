@@ -1,7 +1,7 @@
 /**
     Rota / Recurso
    */
-
+  
   /**
     Métodos HTTP
    
@@ -46,3 +46,86 @@
    -> Listar casos especifícos de uma ONG
    -> Listar todos os casos
    -> Entrar em contato com a ONG
+
+
+   Por que fazer testes na programação?
+
+   Ganhar tempo, testar 3000 telas sem precisar testar manualmente
+
+   E garantir que está funcionando
+
+
+   Framework de teste -> Jest
+
+
+   Tipos de testes (mais importantes)
+
+   - Testes Unitarios
+   testa um pedaço da aplicação de forma isolada
+
+
+   - Testes de Integração -> testará um fluxo inteiro dentro da aplicação
+   ele testa por completo uma funcionalidade
+
+
+   executar o teste
+   npm test
+
+   supertest é uma api para fazer requisição http e ela faz alguns testes a mais
+
+
+   .set('Authorization', '9e8c487b');
+
+
+
+Deploy de node
+
+-> Heroku => de graça
+
+Aplicações grande
+
+-> Digital Ocean
+
+
+DevOps -> Especialista em Deploy
+
+
+Aplicações Enormessss
+
+AWS
+
+Google Cloud Plataform
+
+Microsoft Azure
+
+
+
+Deploy reactjs (apenas para front-end)
+
+Netlify
+
+Seleciona o repositorio no github que ta a aplicação
+
+ele ja faz Deploy da aplicação automaticamente
+
+
+Recomendações
+
+Padrões de Código: ESLint e Prettier
+
+Autenticação JWT
+
+Styled Components
+
+
+Dicas
+
+Github
+
+Fazer Post Linkedin
+
+
+
+
+
+
